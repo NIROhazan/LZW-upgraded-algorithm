@@ -1,4 +1,4 @@
-//Final Project - Nir Hazan 316009489 & May Setter 312123037
+//Final Project - Nir Hazan
 package LZW;
 
 
